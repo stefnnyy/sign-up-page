@@ -34,7 +34,6 @@
 .rightSection {
   width: 50%;
   height: 100%;
-
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -223,6 +222,7 @@ hr {
     width: 100%;
     padding: 1.5rem;
     height: auto;
+    max-width: 100%;
   }
 
   .textContainer {
